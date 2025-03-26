@@ -1,5 +1,4 @@
 // initialize empty Map
-
 // let data = new Map();
 // console.log(data); // Map(0) {}
 
